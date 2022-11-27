@@ -1,0 +1,25 @@
+Synthcard Mixer
+Date:,"Sunday, November 27, 2022 at 09:25:31 AM",,,,,
+Tool:,Eeschema (6.0.9-0),,,,,
+,,,,,,
+Component Count:,27,,,,,
+Ref,Qnty,Value,Manufacturer Part Number,Description,Cmp name,Footprint
+"C1, C2, C3,",3,330nF,MMK5334K50J01L4BULK,Unpolarized capacitor,C,Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm
+"C4,",1,150nF,MMK5154K50J01L4BULK,Unpolarized capacitor,C,Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm
+"C5, C6,",2,10uF,25MH510MEFC5X5,"Polarized capacitor, small US symbol",C_Polarized_Small_US,Capacitor_THT:CP_Radial_D5.0mm_P2.00mm
+"D1,",1,1N4001,1N4001,"50V 1A General Purpose Rectifier Diode, DO-41",1N4001,Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal
+"D2,",1,5MM LED,LTH5MM12VFR4100,Light emitting diode,LED,LED_THT:LED_D5.0mm
+"J1,",1,Input 1,PJ-3001F,"Audio Jack, 2 Poles (Mono / TS), Switched T Pole (Normalling)",AudioJack2_SwitchT,Connector_Audio:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles
+"J2,",1,Input 2,PJ-3001F,"Audio Jack, 2 Poles (Mono / TS), Switched T Pole (Normalling)",AudioJack2_SwitchT,Connector_Audio:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles
+"J3,",1,Input 3,PJ-3001F,"Audio Jack, 2 Poles (Mono / TS), Switched T Pole (Normalling)",AudioJack2_SwitchT,Connector_Audio:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles
+"J4,",1,Output,PJ-3001F,"Audio Jack, 2 Poles (Mono / TS), Switched T Pole (Normalling)",AudioJack2_SwitchT,Connector_Audio:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles
+"J5,",1,Conn_01x02,22-28-4242g,"Generic connector, single row, 01x02",Conn_01x02,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical
+"Q1,",1,2N3904,2N3904,"0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92",2N3904,Package_TO_SOT_THT:TO-92L_HandSolder
+"R1, R2, R3,",3,100k,CMF50100K00FHEB,"Resistor, small US symbol",R_Small_US,Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal
+"R4,",1,200k,CMF50200K00FHEB,"Resistor, small US symbol",R_Small_US,Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal
+"R5,",1,1M,CMF501M0000FHEK,"Resistor, small US symbol",R_Small_US,Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal
+"R6,",1,4k75,CMF504K7500FHEB,"Resistor, small US symbol",R_Small_US,Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal
+"R7,",1,10k,CMF5010K000FHEB,"Resistor, small US symbol",R_Small_US,Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal
+"R8,",1,1k,CMF501K0000FHEB,"Resistor, small US symbol",R_Small_US,Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal
+"R9,",1,680R,CMF50681R00FHEB,"Resistor, small US symbol",R_Small_US,Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal
+"RV1, RV2, RV3,",3,100k,RV09AF-40-20K-A100K,"Potentiometer, US symbol",R_Potentiometer_US,Potentiometer_THT:Potentiometer_Alps_RK09K_Single_Vertical
