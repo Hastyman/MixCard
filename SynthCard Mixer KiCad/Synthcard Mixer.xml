@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/Users/chris/Documents/KiCad/Synthcard Mixer/Synthcard Mixer.kicad_sch</source>
+    <date>Sunday, November 27, 2022 at 09:37:08 AM</date>
+    <tool>Eeschema (6.0.9-0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>+9v NPN Synth Mixer</title>
+        <company/>
+        <rev>1</rev>
+        <date/>
+        <source>Synthcard Mixer.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="BT1">
+      <value>Battery_Cell</value>
+      <libsource lib="Device" part="Battery_Cell" description="Single-cell battery"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Synthcard Mixer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5da43fe1-7861-4749-a292-bb3a031dd79c</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>330nF</value>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm</footprint>
+      <fields>
+        <field name="Manufacturers Name">KEMET</field>
+        <field name="Manufacturers Part Number">MMK5334K50J01L4BULK</field>
+        <field name="Part Description">Film Capacitors 50volts 0.33uF 10% LS 5mm</field>
+        <field name="Type">Through-hole</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturers Name" value="KEMET"/>
+      <property name="Manufacturers Part Number" value="MMK5334K50J01L4BULK"/>
+      <property name="Part Description" value="Film Capacitors 50volts 0.33uF 10% LS 5mm"/>
+      <property name="Type" value="Through-hole"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Synthcard Mixer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e6e40dd-368c-475d-b438-e3e53d58b141</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>330nF</value>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm</footprint>
+      <fields>
+        <field name="Manufacturers Name">KEMET</field>
+        <field name="Manufacturers Part Number">MMK5334K50J01L4BULK</field>
+        <field name="Part Description">Film Capacitors 50volts 0.33uF 10% LS 5mm</field>
+        <field name="Type">Through-hole</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturers Name" value="KEMET"/>
+      <property name="Manufacturers Part Number" value="MMK5334K50J01L4BULK"/>
+      <property name="Part Description" value="Film Capacitors 50volts 0.33uF 10% LS 5mm"/>
+      <property name="Type" value="Through-hole"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Synthcard Mixer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4e113b37-5e0e-43e2-84aa-29b18576b460</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>330nF</value>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm</footprint>
+      <fields>
+        <field name="Manufacturers Name">KEMET</field>
+        <field name="Manufacturers Part Number">MMK5334K50J01L4BULK</field>
+        <field name="Part Description">Film Capacitors 50volts 0.33uF 10% LS 5mm</field>
+        <field name="Type">Through-hole</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturers Name" value="KEMET"/>
+      <property name="Manufacturers Part Number" value="MMK5334K50J01L4BULK"/>
+      <property name="Part Description" value="Film Capacitors 50volts 0.33uF 10% LS 5mm"/>
+      <property name="Type" value="Through-hole"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Synthcard Mixer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0966d82c-1ed3-47f0-b1df-22799e9db7cf</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>150nF</value>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm</footprint>
+      <fields>
+        <field name="Manufacturers Name">KEMET</field>
+        <field name="Manufacturers Part Number">MMK5154K50J01L4BULK</field>
+        <field name="Part Description">Film Capacitors 50volts 0.15uF 10% LS 5mm</field>
+        <field name="Type">Through-hole</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturers Name" value="KEMET"/>
+      <property name="Manufacturers Part Number" value="MMK5154K50J01L4BULK"/>
+      <property name="Part Description" value="Film Capacitors 50volts 0.15uF 10% LS 5mm"/>
+      <property name="Type" value="Through-hole"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Synthcard Mixer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>460232b3-a036-4a3b-b304-e9f17cabaa60</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>10uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D5.0mm_P2.00mm</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/977/e_MH5-1601090.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer ID">25MH510MEFC5X5</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_Small_US" description="Polarized capacitor, small US symbol"/>
+      <property name="Manufacturer ID" value="25MH510MEFC5X5"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Synthcard Mixer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>72d7a7c7-0176-4d0d-9c50-d500f1e0cb73</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>10uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D5.0mm_P2.00mm</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/977/e_MH5-1601090.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer ID">25MH510MEFC5X5</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_Small_US" description="Polarized capacitor, small US symbol"/>
+      <property name="Manufacturer ID" value="25MH510MEFC5X5"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Synthcard Mixer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d86483da-f0db-4bcf-94a9-4f34d7ab6cac</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Synthcard Mixer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3a553cec-51e9-4095-8bde-4f50091c5712</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>5MM LED</value>
+      <footprint>LED_THT:LED_D5.0mm</footprint>
+      <fields>
+        <field name="LTH5MM12VFR4100">LTH5MM12VFR4100</field>
+        <field name="Type">Through-hole</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Type" value="Through-hole"/>
+      <property name="LTH5MM12VFR4100" value="LTH5MM12VFR4100"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Synthcard Mixer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7c7f3d9d-c233-431e-89dc-9f5b6ba56d34</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Input 1</value>
+      <footprint>Connector_Audio:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles</footprint>
+      <fields>
+        <field name="Manufacturers Name">Tayda Electronics</field>
+        <field name="Manufacturers Part Number">PJ-3001F</field>
+        <field name="Type">Through-hole</field>
+      </fields>
+      <libsource lib="Connector" part="AudioJack2_SwitchT" description="Audio Jack, 2 Poles (Mono / TS), Switched T Pole (Normalling)"/>
+      <property name="Manufacturers Name" value="Tayda Electronics"/>
+      <property name="Manufacturers Part Number" value="PJ-3001F"/>
+      <property name="Type" value="Through-hole"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Synthcard Mixer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bd3f6eab-06ae-4c2b-a84d-ece5b1a49af9</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Input 2</value>
+      <footprint>Connector_Audio:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles</footprint>
+      <fields>
+        <field name="Manufacturers Name">Tayda Electronics</field>
+        <field name="Manufacturers Part Number">PJ-3001F</field>
+        <field name="Type">Through-hole</field>
+      </fields>
+      <libsource lib="Connector" part="AudioJack2_SwitchT" description="Audio Jack, 2 Poles (Mono / TS), Switched T Pole (Normalling)"/>
+      <property name="Manufacturers Name" value="Tayda Electronics"/>
+      <property name="Manufacturers Part Number" value="PJ-3001F"/>
+      <property name="Type" value="Through-hole"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Synthcard Mixer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aa2c54b0-210d-4b17-b9bc-63e70e4e1ba3</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Input 3</value>
+      <footprint>Connector_Audio:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles</footprint>
+      <fields>
+        <field name="Manufacturers Name">Tayda Electronics</field>
+        <field name="Manufacturers Part Number">PJ-3001F</field>
+        <field name="Type">Through-hole</field>
+      </fields>
+      <libsource lib="Connector" part="AudioJack2_SwitchT" description="Audio Jack, 2 Poles (Mono / TS), Switched T Pole (Normalling)"/>
+      <property name="Manufacturers Name" value="Tayda Electronics"/>
+      <property name="Manufacturers Part Number" value="PJ-3001F"/>
+      <property name="Type" value="Through-hole"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Synthcard Mixer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bdec5be6-3c05-4785-968d-9b4fe21ce478</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Output</value>
+      <footprint>Connector_Audio:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles</footprint>
+      <fields>
+        <field name="Manufacturers Name">Tayda Electronics</field>
+        <field name="Manufacturers Part Number">PJ-3001F</field>
+        <field name="Type">Through-hole</field>
+      </fields>
+      <libsource lib="Connector" part="AudioJack2_SwitchT" description="Audio Jack, 2 Poles (Mono / TS), Switched T Pole (Normalling)"/>
+      <property name="Manufacturers Name" value="Tayda Electronics"/>
+      <property name="Manufacturers Part Number" value="PJ-3001F"/>
+      <property name="Type" value="Through-hole"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Synthcard Mixer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b65365f6-0f05-47c0-8f06-a1a042ca1120</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>Conn_01x02</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Synthcard Mixer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eb349b3a-3c1d-4967-8093-940ad5633528</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>2N3904</value>
+      <footprint>Package_TO_SOT_THT:TO-92L_HandSolder</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/2N3903-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="2N3904" description="0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Synthcard Mixer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1196f695-72ee-4f0c-858e-e412d610881b</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>100k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <fields>
+        <field name="Manufacturer ID">CMF50100K00FHEB</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Manufacturer ID" value="CMF50100K00FHEB"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Synthcard Mixer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5cdd3689-e10f-498b-b105-8d421ad48790</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>100k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <fields>
+        <field name="Manufacturer ID">CMF50100K00FHEB</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Manufacturer ID" value="CMF50100K00FHEB"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Synthcard Mixer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8607dfd6-e6a0-485b-941a-4431cb52bca4</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>100k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <fields>
+        <field name="Manufacturer ID">CMF50100K00FHEB</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Manufacturer ID" value="CMF50100K00FHEB"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Synthcard Mixer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e2d066b2-94bf-41bb-b81d-126e574d5584</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>200k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <fields>
+        <field name="Manufacturer ID">CMF50200K00FHEB</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Manufacturer ID" value="CMF50200K00FHEB"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Synthcard Mixer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f2b04b26-ad9b-45c3-875d-d740dc798d61</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>1M</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <fields>
+        <field name="Manufacturer ID">CMF501M0000FHEK</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Manufacturer ID" value="CMF501M0000FHEK"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Synthcard Mixer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ec3699cd-95ce-46b4-b131-c670d2c5daac</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>4k75</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <fields>
+        <field name="Manufacturer ID">CMF504K7500FHEB</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Manufacturer ID" value="CMF504K7500FHEB"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Synthcard Mixer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1cd0de69-de49-410d-914a-bca79266a418</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <fields>
+        <field name="Manufacturer ID">CMF5010K000FHEB</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Manufacturer ID" value="CMF5010K000FHEB"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Synthcard Mixer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>49201113-3772-4daf-8e88-9ebfce7245f1</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>1k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <fields>
+        <field name="Manufacturer ID">CMF501K0000FHEB</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Manufacturer ID" value="CMF501K0000FHEB"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Synthcard Mixer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3127c147-0fcb-432c-8059-29cd9c368336</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>680R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <fields>
+        <field name="Manufacturer ID">CMF50681R00FHEB</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Manufacturer ID" value="CMF50681R00FHEB"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Synthcard Mixer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>73f6ad3f-edc7-4d5c-82e3-34dcc1cb3129</tstamps>
+    </comp>
+    <comp ref="RV1">
+      <value>100k</value>
+      <footprint>Potentiometer_THT:Potentiometer_Alps_RK09K_Single_Vertical</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/13/RV09AF-2303609.pdf</datasheet>
+      <fields>
+        <field name="Manufacturers Name">Alpha (Taiwan) </field>
+        <field name="Manufacturers Part Number">RV09AF-40-20K-A100K</field>
+        <field name="Type">Through-hole</field>
+      </fields>
+      <libsource lib="Device" part="R_Potentiometer_US" description="Potentiometer, US symbol"/>
+      <property name="Manufacturers Name" value="Alpha (Taiwan) "/>
+      <property name="Manufacturers Part Number" value="RV09AF-40-20K-A100K"/>
+      <property name="Type" value="Through-hole"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Synthcard Mixer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ca70df5b-1fb2-4ef3-a47b-966e27f5f414</tstamps>
+    </comp>
+    <comp ref="RV2">
+      <value>100k</value>
+      <footprint>Potentiometer_THT:Potentiometer_Alps_RK09K_Single_Vertical</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/13/RV09AF-2303609.pdf</datasheet>
+      <fields>
+        <field name="Manufacturers Name">Alpha (Taiwan) </field>
+        <field name="Manufacturers Part Number">RV09AF-40-20K-A100K</field>
+        <field name="Type">Through-hole</field>
+      </fields>
+      <libsource lib="Device" part="R_Potentiometer_US" description="Potentiometer, US symbol"/>
+      <property name="Manufacturers Name" value="Alpha (Taiwan) "/>
+      <property name="Manufacturers Part Number" value="RV09AF-40-20K-A100K"/>
+      <property name="Type" value="Through-hole"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Synthcard Mixer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>55ec5ca8-bd4a-4b09-9916-425f3c1e105f</tstamps>
+    </comp>
+    <comp ref="RV3">
+      <value>100k</value>
+      <footprint>Potentiometer_THT:Potentiometer_Alps_RK09K_Single_Vertical</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/13/RV09AF-2303609.pdf</datasheet>
+      <fields>
+        <field name="Manufacturers Name">Alpha (Taiwan) </field>
+        <field name="Manufacturers Part Number">RV09AF-40-20K-A100K</field>
+        <field name="Type">Through-hole</field>
+      </fields>
+      <libsource lib="Device" part="R_Potentiometer_US" description="Potentiometer, US symbol"/>
+      <property name="Manufacturers Name" value="Alpha (Taiwan) "/>
+      <property name="Manufacturers Part Number" value="RV09AF-40-20K-A100K"/>
+      <property name="Type" value="Through-hole"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Synthcard Mixer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>834f7200-df74-4c7d-a9e8-b28e41e4e381</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="AudioJack2_SwitchT">
+      <description>Audio Jack, 2 Poles (Mono / TS), Switched T Pole (Normalling)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Jack*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">AudioJack2_SwitchT</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="S" name="" type="passive"/>
+        <pin num="T" name="" type="passive"/>
+        <pin num="TN" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Battery_Cell">
+      <description>Single-cell battery</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">BT</field>
+        <field name="Value">Battery_Cell</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+" type="passive"/>
+        <pin num="2" name="-" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized_Small_US">
+      <description>Polarized capacitor, small US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized_Small_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Potentiometer_US">
+      <description>Potentiometer, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Potentiometer*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">R_Potentiometer_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small_US">
+      <description>Resistor, small US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="1N4001">
+      <description>50V 1A General Purpose Rectifier Diode, DO-41</description>
+      <docs>http://www.vishay.com/docs/88503/1n4001.pdf</docs>
+      <footprints>
+        <fp>D*DO?41*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N4001</field>
+        <field name="Footprint">Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</field>
+        <field name="Datasheet">http://www.vishay.com/docs/88503/1n4001.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_BJT" part="2N3904">
+      <description>0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92</description>
+      <docs>https://www.onsemi.com/pub/Collateral/2N3903-D.PDF</docs>
+      <footprints>
+        <fp>TO?92*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">2N3904</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-92_Inline</field>
+        <field name="Datasheet">https://www.onsemi.com/pub/Collateral/2N3903-D.PDF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="E" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="Diode">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Diode.kicad_sym</uri>
+    </library>
+    <library logical="Transistor_BJT">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Transistor_BJT.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="GND">
+      <node ref="BT1" pin="2" pinfunction="-" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="S" pintype="passive"/>
+      <node ref="J2" pin="S" pintype="passive"/>
+      <node ref="J3" pin="S" pintype="passive"/>
+      <node ref="J4" pin="S" pintype="passive"/>
+      <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="Q1" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="RV1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="RV2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="RV3" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="2" name="Net-(BT1-Pad1)">
+      <node ref="BT1" pin="1" pinfunction="+" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="3" name="Net-(C1-Pad1)">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="RV1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="4" name="Net-(C1-Pad2)">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="5" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="RV2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(C2-Pad2)">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="RV3" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(C3-Pad2)">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(C4-Pad1)">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(C4-Pad2)">
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(C5-Pad2)">
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(J1-PadT)">
+      <node ref="J1" pin="T" pintype="passive"/>
+      <node ref="RV1" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(J2-PadT)">
+      <node ref="J2" pin="T" pintype="passive"/>
+      <node ref="RV2" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(J3-PadT)">
+      <node ref="J3" pin="T" pintype="passive"/>
+      <node ref="RV3" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(J4-PadT)">
+      <node ref="J4" pin="T" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(Q1-Pad2)">
+      <node ref="Q1" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="18" name="unconnected-(J1-PadTN)">
+      <node ref="J1" pin="TN" pintype="passive+no_connect"/>
+    </net>
+    <net code="19" name="unconnected-(J2-PadTN)">
+      <node ref="J2" pin="TN" pintype="passive+no_connect"/>
+    </net>
+    <net code="20" name="unconnected-(J3-PadTN)">
+      <node ref="J3" pin="TN" pintype="passive+no_connect"/>
+    </net>
+    <net code="21" name="unconnected-(J4-PadTN)">
+      <node ref="J4" pin="TN" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>
